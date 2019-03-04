@@ -20112,6 +20112,8 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Particles.prototype.acts.SetTimeout,
 	cr.plugins_.Particles.prototype.acts.SetInitSpeed,
 	cr.plugins_.Particles.prototype.acts.SetParticleAcc,
-	cr.plugins_.Sprite.prototype.acts.SubInstanceVar
+	cr.plugins_.Sprite.prototype.acts.MoveToBottom,
+	cr.plugins_.Sprite.prototype.acts.SubInstanceVar,
+	cr.plugins_.Sprite.prototype.acts.SetAnimSpeed
 ];};
 

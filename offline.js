@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1551724828,
+	"version": 1551731858,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -24,9 +24,12 @@
 		"images/enemyspawn-sheet0.png",
 		"images/eenemyspawn-sheet0.png",
 		"images/s_mechanicminigunsfx-sheet0.png",
-		"images/pu_random-sheet0.png",
+		"images/pu_healthkit-sheet0.png",
+		"images/pu_healthkit-sheet1.png",
 		"images/phealthbar-sheet0.png",
 		"images/pmanabar-sheet0.png",
+		"images/p_healthkitpickup.png",
+		"images/pu_manarestore-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
