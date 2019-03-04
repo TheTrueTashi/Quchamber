@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1551644965,
+	"version": 1551717556,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,6 +10,7 @@
 		"images/player-sheet0.png",
 		"images/player-sheet1.png",
 		"images/mask-sheet0.png",
+		"images/mask-sheet1.png",
 		"images/camera-sheet0.png",
 		"images/enemy-sheet0.png",
 		"images/enemy-sheet1.png",
@@ -21,6 +22,7 @@
 		"images/enemymask-sheet0.png",
 		"images/enemyspawn-sheet0.png",
 		"images/eenemyspawn-sheet0.png",
+		"images/s_mechanicminigunsfx-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
