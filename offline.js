@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1551731858,
+	"version": 1551789424,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -30,6 +30,15 @@
 		"images/pmanabar-sheet0.png",
 		"images/p_healthkitpickup.png",
 		"images/pu_manarestore-sheet0.png",
+		"images/p_manarestorepickup.png",
+		"images/touchbuttonup-sheet0.png",
+		"images/enemydeathparticle-sheet0.png",
+		"images/touchbuttondown-sheet0.png",
+		"images/touchbuttonleft-sheet0.png",
+		"images/touchbuttonright-sheet0.png",
+		"images/touchangle-sheet0.png",
+		"images/touchanglecenter-sheet0.png",
+		"images/touchanglebutton-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
