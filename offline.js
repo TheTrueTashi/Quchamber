@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1551789424,
+	"version": 1551800039,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -39,6 +39,7 @@
 		"images/touchangle-sheet0.png",
 		"images/touchanglecenter-sheet0.png",
 		"images/touchanglebutton-sheet0.png",
+		"images/touchangletriadup-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
