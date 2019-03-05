@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1551801237,
+	"version": 1551823735,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -40,6 +40,7 @@
 		"images/touchanglecenter-sheet0.png",
 		"images/touchanglebutton-sheet0.png",
 		"images/touchangletriadup-sheet0.png",
+		"images/enemytankspawn-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
