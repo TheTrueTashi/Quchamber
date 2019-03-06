@@ -22423,6 +22423,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.exps.X,
 	cr.plugins_.Sprite.prototype.exps.Y,
 	cr.plugins_.shadowlight.prototype.acts.SetPos,
+	cr.plugins_.Text.prototype.acts.SetText,
 	cr.behaviors.Pin.prototype.cnds.IsPinned,
 	cr.plugins_.Sprite.prototype.acts.Destroy,
 	cr.plugins_.Sprite.prototype.acts.SetOpacity,
@@ -22442,7 +22443,6 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Fade.prototype.acts.StartFade,
 	cr.plugins_.Mouse.prototype.cnds.OnClick,
 	cr.plugins_.Particles.prototype.acts.SetAngle,
-	cr.system_object.prototype.cnds.IsOnPlatform,
 	cr.plugins_.Keyboard.prototype.cnds.IsKeyDown,
 	cr.behaviors.EightDir.prototype.acts.SimulateControl,
 	cr.plugins_.Sprite.prototype.cnds.IsOnScreen,
@@ -22465,7 +22465,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Particles.prototype.acts.SetParticleAcc,
 	cr.plugins_.Text.prototype.acts.SetFontSize,
 	cr.plugins_.Sprite.prototype.acts.MoveToBottom,
-	cr.plugins_.Sprite.prototype.acts.SetAnimSpeed,
-	cr.plugins_.Text.prototype.acts.SetText
+	cr.plugins_.Sprite.prototype.acts.SetAnimSpeed
 ];};
 
