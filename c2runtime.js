@@ -22458,7 +22458,6 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.ForEach,
 	cr.plugins_.Sprite.prototype.acts.RotateTowardPosition,
 	cr.plugins_.Sprite.prototype.acts.SubInstanceVar,
-	cr.plugins_.Sprite.prototype.cnds.IsOverlapping,
 	cr.plugins_.Particles.prototype.acts.SetRate,
 	cr.plugins_.Particles.prototype.acts.SetSprayCone,
 	cr.plugins_.Particles.prototype.acts.SetTimeout,
