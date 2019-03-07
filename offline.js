@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1551980599,
+	"version": 1551999551,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -39,6 +39,8 @@
 		"images/s_mechaniclauncherp.png",
 		"images/s_mechaniclauncherbp.png",
 		"images/s_mechaniclauncheresfx.png",
+		"images/magnet-sheet0.png",
+		"images/endscreenbest-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
