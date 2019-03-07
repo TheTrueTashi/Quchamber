@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1551908570,
+	"version": 1551973569,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,7 +15,6 @@
 		"images/enemy-sheet0.png",
 		"images/enemy-sheet1.png",
 		"images/projectile-sheet0.png",
-		"images/projectile-sheet1.png",
 		"images/p_inpactshotgun.png",
 		"images/p_inpactenemy.png",
 		"images/s_mechanicshotgunsfx-sheet0.png",
@@ -37,6 +36,9 @@
 		"images/endscreenfinished-sheet0.png",
 		"images/endscreenborder-sheet0.png",
 		"images/endscreenscore-sheet0.png",
+		"images/s_mechaniclauncherp.png",
+		"images/s_mechaniclauncherbp.png",
+		"images/s_mechaniclauncheresfx.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
