@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1552138395,
+	"version": 1552147936,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -46,7 +46,6 @@
 		"images/p_endscreenscore.png",
 		"images/restart-sheet0.png",
 		"images/endscreenoverlay-sheet0.png",
-		"images/endscreenback-sheet0.png",
 		"images/endscreenback2-sheet0.png",
 		"images/loaderlogo-sheet0.png",
 		"images/loaderlogo-sheet1.png",
@@ -58,6 +57,10 @@
 		"images/endscreenarrow2-sheet0.png",
 		"images/endscreenarrow2-sheet1.png",
 		"images/endscreenarrow2-sheet2.png",
+		"images/endscreenmenuicon-sheet0.png",
+		"images/endscreenmenuicon-sheet1.png",
+		"images/endscreenexiticon-sheet0.png",
+		"images/endscreenexiticon-sheet1.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
