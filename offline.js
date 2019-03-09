@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1552090537,
+	"version": 1552134904,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -52,6 +52,12 @@
 		"images/loaderlogo-sheet1.png",
 		"images/loaderlogo-sheet2.png",
 		"images/spacebar-sheet0.png",
+		"images/endscreenarrow-sheet0.png",
+		"images/endscreenarrow-sheet1.png",
+		"images/endscreenarrow-sheet2.png",
+		"images/endscreenarrow2-sheet0.png",
+		"images/endscreenarrow2-sheet1.png",
+		"images/endscreenarrow2-sheet2.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

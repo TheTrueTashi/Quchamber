@@ -23857,6 +23857,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.RestartLayout,
 	cr.system_object.prototype.acts.ResetGlobals,
 	cr.plugins_.Mouse.prototype.cnds.IsOverObject,
+	cr.plugins_.Sprite.prototype.acts.SetAnimSpeed,
 	cr.plugins_.Keyboard.prototype.cnds.OnKey,
 	cr.system_object.prototype.cnds.OnLayoutStart,
 	cr.system_object.prototype.acts.CreateObject,
@@ -23909,7 +23910,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.MoveToBottom,
 	cr.behaviors.Bullet.prototype.acts.SetEnabled,
 	cr.behaviors.Bullet.prototype.acts.SetAcceleration,
-	cr.plugins_.Sprite.prototype.acts.SetAnimSpeed,
 	cr.system_object.prototype.cnds.CompareTime,
 	cr.system_object.prototype.acts.GoToLayoutByName
 ];};
