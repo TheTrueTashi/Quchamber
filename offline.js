@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1552224442,
+	"version": 1552406848,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,6 +14,7 @@
 		"images/camera-sheet0.png",
 		"images/enemy-sheet0.png",
 		"images/enemy-sheet1.png",
+		"images/enemy-sheet2.png",
 		"images/projectile-sheet0.png",
 		"images/p_inpactshotgun.png",
 		"images/p_inpactenemy.png",
@@ -61,7 +62,10 @@
 		"images/endscreenmenuicon-sheet1.png",
 		"images/endscreenexiticon-sheet0.png",
 		"images/endscreenexiticon-sheet1.png",
+		"images/enemychargerspawn-sheet0.png",
+		"images/fogarea-sheet0.png",
 		"media/wobble_light.ogg",
+		"media/endtrack.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
